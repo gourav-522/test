@@ -1,0 +1,79 @@
+.bg-image-card {
+    background-image: url(/assets/images/bg-img-card-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 202px;
+    padding-bottom: 29px;
+}
+
+.col-4 {
+    width: 33.33%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.card {
+    background: white;
+    width: 382px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    display: flex;
+}
+
+.card-read-btn {
+    border: none;
+    padding-top: 81px;
+    background-color: white;
+}
+
+.card-text {
+    padding: 35px 29px;
+}
+
+.card-heading {
+    color: #00afb5;
+}
+
+.font-weight-600 {
+    font-weight: 600;
+}
+
+.font-size {
+    font-size: 15px;
+}
+
+.font-weight {
+    font-weight: 300;
+}
+
+.font-size-30 {
+    font-size: 30px;
+}
+
+.font-weight-400 {
+    font-weight: 400;
+}
+
+.card-head {
+    margin-top: 15px;
+}
+
+.bg-image-card-2 {
+    background-image: url(/assets/images/bg-img-card-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 202px;
+    padding-bottom: 29px;
+}
+
+.bg-image-card-3 {
+    background-image: url(/assets/images/bg-img-card-3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 202px;
+    padding-bottom: 29px;
+}
